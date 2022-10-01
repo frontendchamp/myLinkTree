@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Instagram",
+        "cover": "../fitness.jpg",
+        "desc": "This is my Instagram",
+        "url": "https://instagram.com/coding_dev_",
+        "btn_text": "Check out"
+    },
+    {
+        "title": "Youtube",
+        "cover": "../fitness.jpg",
+        "desc": "This is my Instagram",
+        "url": "https://instagram.com/coding_dev_"
+    },
+    {
+        "title": "Twitter",
+        "cover": "",
+        "desc": "This is my Instagram",
+        "url": "https://instagram.com/coding_dev_",
+        "btn_text": "Click here"
+    }
+]
